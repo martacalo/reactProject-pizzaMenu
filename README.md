@@ -11,7 +11,7 @@ A simple and stylish React app that displays an Italian pizza menu. Users can br
 
 ## Screenshot
 
-![Fast React Pizza Co. Menu](images/appPizza.png)
+![Fast React Pizza Co. Menu](src/images/appPizza.png)
 
 ## Getting Started
 
