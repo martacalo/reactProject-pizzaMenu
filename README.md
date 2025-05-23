@@ -9,10 +9,6 @@ A simple and stylish React app that displays an Italian pizza menu. Users can br
 - Sold out items are visually indicated
 - Menu availability based on current time
 
-## Screenshot
-
-![Fast React Pizza Co. Menu](src/images/appPizza.png)
-
 ## Getting Started
 
 1. Clone the repository
